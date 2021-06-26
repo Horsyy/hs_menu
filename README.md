@@ -3,6 +3,7 @@
 ## About the Project - Preview
 
 [Streamable](https://streamable.com/nbnk70)
+![image](https://user-images.githubusercontent.com/42266290/123517496-fef1ab00-d6a9-11eb-91ea-d2f5bc04e5e0.png)
 
 ## Features
 
